@@ -1,0 +1,53 @@
+body{
+    font-family: sans-serif;
+}
+h1 {
+    background-color:dodgerblue;
+    text-align:center;
+    color:white;
+    padding:10px;
+    
+}
+.bodyDiv{
+    background-color:rgb(240, 240, 240);
+    width:75%;
+    height: auto;
+    padding: 20px 10px;
+    margin:auto;
+}
+h2 {
+    background-color:tomato;
+    color:white;
+    padding:10px;
+}
+.colorBlock{
+    width:50px;
+    height: 50px;
+    display:inline-block;
+    margin: 0px 10px 0px 0px;
+}
+div.tomato{
+    background-color:tomato;
+}
+div.dodgerBlue{
+    background-color:dodgerblue;
+}
+.subDiv{
+    border-radius:5px;
+    background-color:lightgray;
+    margin: 10px 0px;
+    padding: 10px;
+}
+p.section{
+    border-bottom: solid 1px tomato;
+}
+p .product{
+    border:none;
+}
+div.people{
+    width:100px;
+    height:100px;
+    border-radius:50%;
+    background-position:right;
+    background-size:cover;
+}
